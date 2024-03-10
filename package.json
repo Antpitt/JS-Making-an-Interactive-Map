@@ -1,0 +1,17 @@
+{
+  "name": "js-making-an-interactive-map",
+  "version": "1.0.0",
+  "description": "This map utilizes the Leaflet library and Foursquare API to map the users geolocation coordinates onto a map. The user is then able to select a business type and have businesses add to the map.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "live-server": "^1.2.1"
+  }
+}
